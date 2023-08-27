@@ -1,0 +1,14 @@
+---
+title: "The Effects of Climate Change on the Distribution Patterns of Baleen Whales in the Farallones Islands"
+author: "Giusi Adragna"
+format: docx
+editor: visual
+---
+
+## Introduction
+
+The topic of my research is to continue tracking the abundance and distribution of blue, humpback, and gray whales (and possibly their prey, Euphasia pacifica and Thysanoessa spinifera) either in central California or another geographic area known to be a hotspot (an area with a significant presence of whales in a certain time of the year). Variable such as sea surface temperature (SST), sea surface salinity (SSS), basin-scale basin indices (e.g. Southern Oscillation Index - SOI, Pacific Decadal Oscillation - PDO, and North Pacific Gyre Oscillation - NPGO), bathymetric- and distance-related data, and upwelling index are some of the oceanographic and climate data used as environmental drivers to study distribution, abundance, and migration patterns in central California. If I decided to study another geographical area, I would have to find other environmental drivers influencing those whales' distribution. I would like to develop models that can help identify those areas of importance for whales with the ultimate goal of implementing more suitable vessel management strategies, for example, in order to decrease interactions between fisheries/shipping vessels and whales. Because whales sink rather than float when they die, it would be interesting to use acoustic data rather than whale sightings data from the field station on Southeast Farallon Island. 
+
+link: https://github.com/gadragna23/biol_708
+
+
